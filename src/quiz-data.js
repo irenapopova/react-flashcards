@@ -22,3 +22,13 @@ const QUESTION_DATA = [
     correct: 1
   },
 
+  {
+    question: <span>What is a closure?</span>,
+    answers: [
+      <span>An inner function that has access to an outer function is variables, even after the outer function has executed.</span>,
+      <span>A stateful function; a function that preserves state.</span>,
+      <span>The combination of a function and the lexical environment within which that function was declared.</span>,
+      <span>All of the above.</span>
+    ],
+    correct: 3
+  },
