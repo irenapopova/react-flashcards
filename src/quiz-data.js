@@ -11,5 +11,14 @@ const QUESTION_DATA = [
     ],
     correct: 3
   },
-
+  {
+    question: <span>What are the three types of JavaScript errors?</span>,
+    answers: [
+      <span>Parse Errors, Syntax Errors and Runtime Errors.</span>,
+      <span>Loading Errors, Runtime Errors and Logic Errors.</span>,
+      <span>Syntax Errors, Logic Errors and Loading Errors.</span>,
+      <span>Bad Errors, Very Bad Errors, and Fatal Errors.</span>
+    ],
+    correct: 1
+  },
 
